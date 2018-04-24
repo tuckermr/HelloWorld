@@ -1,0 +1,1 @@
+Playing **Hello World** is a very simple process. Use the WASD keys to move around (W to move forward, S to move backward, A to move to the left, and D to move to the right). Use the mouse to look around. Use the E key to interact with objects in the enviornment. The game will guide you through the rest. 

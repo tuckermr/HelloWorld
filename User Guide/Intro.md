@@ -1,0 +1,3 @@
+**Hello World** is a game to help you learn the basics of programming. If you have zero experience programming and want to learn in a fun enviornment, then this is the game for you! 
+
+The world is falling apart! It is up to you to restore it back to the way it was. Walk around and explore the enivornment and you will find that some things are out of order. You will need to use your programming skills to restore the world to working order. 
